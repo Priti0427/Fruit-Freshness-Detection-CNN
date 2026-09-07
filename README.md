@@ -52,7 +52,7 @@ Options:
 
 ### Retraining(Optional)
 
-Size of the dataset: 3.8 GB and takes 20 to 25 minutes to train.
+Size of the dataset: 3.8 GB and takes about 20 to 25 minutes to train.
 
 1. Download the dataset (see [Dataset](#dataset)) and place it under `data/`.
 2. Run:
