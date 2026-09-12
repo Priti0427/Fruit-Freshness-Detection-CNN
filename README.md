@@ -25,7 +25,7 @@ cd fruit-freshness-cnn
 pip install -r requirements.txt
 ```
 
-Classify any photo. No dataset is needed, takes about 10 seconds:
+We can classify any photo containing any one of these 3 fruits. No dataset is needed, takes about 10 seconds:
 
 ```bash
 python predict.py photo.jpg
