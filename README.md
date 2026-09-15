@@ -17,7 +17,7 @@ Classify a photo of fruit as **fresh** or **rotten**, using an EfficientNet-B0 C
 
 ## Quick start
 
-Install:
+Clone the Repo and Install the requirements:
 
 ```bash
 git clone https://github.com/Priti0427/fruit-freshness-cnn.git
