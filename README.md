@@ -162,7 +162,7 @@ Training and testing on rotations of the same photograph measures memorisation, 
 
 ### Training
 
-EfficientNet-B0 pretrained on ImageNet, fine-tuned in two stages:
+EfficientNet-B0 pretrained on ImageNet, fine-tuning is done in two stages:
 
 | Stage | Epochs | Trainable | Learning rate |
 |---|---|---|---|
