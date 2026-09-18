@@ -1,6 +1,6 @@
 # Fruit Freshness Detection CNN Project
 
-Classify a photo of fruit as **fresh** or **rotten**, using an EfficientNet-B0 CNN fine-tuned in PyTorch. EfficientNet is a highly optimized convolutional neural network (CNN) designed for environments with limited computational resources. Here, three fruits are covered: Apples, Bananas and Oranges.
+This Project is about classifying a photo of fruit as **fresh** or **rotten**, using an EfficientNet-B0 CNN fine-tuned in PyTorch. EfficientNet is a highly optimized convolutional neural network (CNN) designed for environments with limited computational resources. Here, three fruits are covered: Apples, Bananas and Oranges.
 
 ![accuracy](https://img.shields.io/badge/accuracy-97.02%25-brightgreen)
 ![python](https://img.shields.io/badge/python-3.9%2B-blue)
