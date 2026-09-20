@@ -222,7 +222,7 @@ RUN_COLOR_BASELINE = True
 
 **Errors are asymmetric.** 33 rotten photographs were classified as fresh, against 12 the other way. For a consumer application the model is more likely to pass off spoiled fruit than to reject good fruit.
 
-**Only two classes.** An earlier version tried a third "unripe" class, but those images came from a different source:
+**Considered only two classes.** An earlier version tried a third "unripe" class, but those images came from a different source:
 
 - Unripe: 100% JPEG, fixed 162 px width (search-result thumbnails)
 - Fresh and rotten: 100% PNG, 520 to 840 px
