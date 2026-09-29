@@ -17,7 +17,7 @@ This Project is about classifying a photo of fruit as **fresh** or **rotten**, u
 
 ## Quick start
 
-Clone the Repo and Install the requirements:
+Clone the Repo and Install the required libraries:
 
 ```bash
 git clone https://github.com/Priti0427/fruit-freshness-cnn.git
